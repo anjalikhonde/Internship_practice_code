@@ -31,6 +31,7 @@ Each project helped me strengthen my understanding of real-world programming con
 | 📄 AI Resume Screening | Resume analyzer for evaluating candidate profiles. |
 | 👨‍💼 Employee Hiring Prediction | Machine Learning model that predicts employee hiring decisions using classification algorithms. |
 | 🚀 Smart Recruitment Pipeline | AI-based recruitment workflow demonstrating candidate evaluation and hiring process. |
+| 📈 Employee Promotion API | REST API project for predicting/managing employee promotion decisions. |
 
 ---
 
@@ -60,6 +61,7 @@ Each project helped me strengthen my understanding of real-world programming con
 - Classification Algorithms
 - Data Preprocessing
 - Model Evaluation
+- REST API Development
 - Problem Solving
 - Git & GitHub
 
@@ -76,6 +78,7 @@ Each project helped me strengthen my understanding of real-world programming con
 - TensorFlow
 - Keras
 - NLTK
+- Java / Spring Boot
 - Visual Studio Code
 - Git
 - GitHub
@@ -87,6 +90,9 @@ Each project helped me strengthen my understanding of real-world programming con
 ```
 Internship_practice_code/
 │
+├── EmployeePromotionAPI/
+├── .vscode/
+├── Output/
 ├── ANN.py
 ├── CNN.py
 ├── chatbot.py
@@ -106,6 +112,7 @@ Internship_practice_code/
 ├── factorial.py
 ├── fibonnaci.py
 ├── copilotdemo.py
+├── Imageproccesing.py
 ├── candidate_distribution.png
 ├── empvspythonskills.png
 ├── house_price_plot.png
@@ -113,6 +120,7 @@ Internship_practice_code/
 ├── matplotlibfig1.png
 ├── matplotlibfig2.png
 ├── sebornchart.png
+├── employee_resized.jpg
 └── README.md
 ```
 
